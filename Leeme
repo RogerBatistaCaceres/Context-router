@@ -6,6 +6,7 @@ npm i // para instalar todos los paquetes asociados al archivo package.json
 // y crear la carpeta node_modules
 
 - Trabajo con Git
+  git remote remove origin
   git init
   git add .
   git log --oneline
